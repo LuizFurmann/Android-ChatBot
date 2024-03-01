@@ -1,4 +1,4 @@
-package com.example.furmannchatbot;
+package com.example.furmannchatbot.view;
 
 import androidx.appcompat.app.AppCompatActivity;
 
